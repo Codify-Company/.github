@@ -1,36 +1,80 @@
+<!-- Logo and Title -->
 
-# Welcome to Codify Company 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f2367546-88da-478e-a33b-970f15c7ce61" alt="Company Logo" width="450" />
+<!--   <h1 align="center">Codify Company</h1> -->
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License" /></a>
+</p>
+
+## Table of Contents
+
+- [About Us](#about-us)  
+- [Our Projects](#our-projects)  
+- [How We Work](#how-we-work)  
+- [License](#license)  
+- [Contact Us](#contact-us)  
+
+---
 
 ## About Us
-**Codify Company** is a leading software development firm focused on crafting cutting-edge digital solutions. We specialize in:
-- **Web Development**: Building responsive and dynamic websites.
-- **Business Management Tools**: Streamlining operations with tailored management software.
-- **Custom Software**: Developing unique applications based on client needs.
 
-Our goal is to provide scalable and user-friendly solutions that help businesses grow and succeed in the digital world.
+**Codify Company** is a software development studio based in Buenos Aires.  
+Our mission is to build scalable, user-centric applications that solve real-world problems and drive digital transformation.
 
-## Our Projects 🚀
-At Codify, we work on a variety of projects that reflect our commitment to quality and innovation:
-- **Codify Web Solutions**: A collection of web development projects that showcase our frontend and backend expertise.
-- **Client Management Tool**: Our powerful platform designed to optimize customer relationships and streamline workflows.
+- 🌐 **Website:** https://codifyco.com
+- 📍 **Location:** Buenos Aires, Argentina  
+- 🤝 **Partners:** Oxygen Token, South Data, Asociacion Argentina de Pesca con Mosca  
 
-Stay tuned for updates as we expand our portfolio!
+---
+
+## Our Projects
+
+Here are some of our flagship projects:
+
+| Project Name        | Description                                      | Tech Stack                         | Website Link                           |
+| ------------------- | ------------------------------------------------ | ---------------------------------- | -------------------------------------- |
+| **Black Pass**      | Ticketing platform for live events               | React, Node.js, PostgreSQL         | https://blackpass.website              |
+| **AAPM**            | Design and Development th website                | HTML, CSS, JS                      | https://aapm.org.ar                    |
+| **South Data**      | Sales management and commission tracking system  | Angular, .NET Core, SQL Server     |                 -                      |
+
+---
 
 ## How We Work
-We value collaboration, creativity, and agility. Here's how we organize our development process:
-1. **Agile Methodology**: We use agile frameworks to ensure rapid iterations and continuous improvement.
-2. **Code Reviews**: All code is reviewed to maintain high standards.
-3. **Continuous Integration/Continuous Delivery (CI/CD)**: We implement automated testing and deployment to keep our projects stable and secure.
 
-## Branching Strategy 🌳
-We follow a structured branching strategy to maintain clarity in development:
-- **main**: The production-ready codebase.
-- **develop**: Staging area for new features and bug fixes.
-- **feature/***: Branches for new features.
-- **bugfix/***: Branches for bug fixes.
-- **release/***: Branches for preparing new versions.
+1. **Discovery & Planning**  
+   - We start with stakeholder interviews and requirement gathering.  
+   - We create user stories, wireframes, and a project roadmap.
+
+2. **Development**  
+   - Agile methodology with 2-week sprints.  
+   - Continuous Integration / Continuous Deployment (CI/CD).  
+   - Code reviews and pair programming.
+
+3. **Testing & QA**  
+   - Automated unit, integration, and end-to-end tests.  
+   - Manual testing for exploratory scenarios.
+
+4. **Delivery & Maintenance**  
+   - Dockerized deployments to AWS/GCP.  
+   - 45-day warranty for defect fixes (see [Warranty Terms](./WARRANTY.md)).  
+   - Ongoing support and feature updates.
+
+---
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
+
+---
 
 ## Contact Us
-- **Website**: [codifyco.com](https://www.codifyco.com)
-- **Email**: contacto@codifyco.com
-- **LinkedIn**: [Codify Company](https://www.linkedin.com/company/codify-company)
+
+- ✉️ Email: [contacto@codifyco.com](mailto:contacto@codifyco.com)  
+- 🌐 Website: https://codifyco.com  
+- 🏢 Linkedin: [@codify-company](https://www.linkedin.com/company/codify-company)
+
